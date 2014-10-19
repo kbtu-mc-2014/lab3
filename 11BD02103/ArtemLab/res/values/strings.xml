@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArtemLab</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string-array name="choose">
+        <item>Weather DT</item>
+        <item>About radio</item>
+        <item>Weather names</item>
+    </string-array>
+
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
