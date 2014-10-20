@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HiHi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="categories">
+        <item>Cupcake</item>
+        <item>Chocolate</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="titles0">
+        <item>Maffins</item>
+        <item>Tiramisu</item>
+        <item>Pancakes</item>
+    </string-array>
+    <string-array name="titles1">
+        <item>Kitkat</item>
+        <item>Snickers</item>
+        <item>Merci</item>
+    </string-array>
+    <string-array name="titles2">
+        <item>Pizza</item>
+        <item>Hot dogs</item>
+        <item>Cheeseburger</item>
+    </string-array>
+    <string-array name="titles0articles">
+        <item>The term muffin typically refers to an individual sized quick bread product which can be sweet or savory. The typical American muffin is similar to a cupcake in size and cooking methods. These can come in both savory varieties, such as corn or cheese muffins, or sweet varieties such as blueberry or banana.
+
+Muffin also refers to a flatter disk-shaped bread of English origin, commonly referred to as an English muffin outside the United Kingdom. These muffins are also popular in Commonwealth countries and the United States.</item>
+        <item>Tiramisu (from Italian, spelled tiramisù, [tiɾamiˈsu], meaning "pick me up" or "lift me up") is a popular coffee-flavoured Italian dessert. It is made of ladyfingers (Italian: Savoiardi, [savoˈjardi]) dipped in coffee, layered with a whipped mixture of eggs, sugar and mascarpone cheese, flavoured with cocoa. </item>
+        <item> Pancake is a flat cake, often thin, and round, prepared from a starch-based batter and cooked on a hot surface such as a griddle or frying pan. In Britain, pancakes are often unleavened, and resemble a crêpe.</item>
+    </string-array>
+    <string-array name="titles1articles">
+        <item>About Merci</item>
+        <item>Snickers is a brand name chocolate bar made by Mars, Incorporated. It consists of nougat topped with caramel and peanuts, enrobed in milk chocolate.[1] Snickers has annual global sales of $2 billion</item>
+        <item>Merci is a brand of German chocolate candy manufactured by the German company August Storck KG.</item>
+    </string-array>
+    <string-array name="titles2articles">
+        <item>The modern pizza was invented in Naples, Italy, and the dish and its variants have since become popular in many parts of the world.</item>
+        <item>About Hot dog </item>
+        <item>About Cheeseburger</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <fragment
+        android:name="com.example.hihi.Activity_One"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        tools:layout="@layout/listview_one" />
+
+    <fragment
+        android:name="com.example.hihi.Activity_Two"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        tools:layout="@layout/listview_two" />
+
+    <fragment
+        android:name="com.example.hihi.Activity_Three"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout="@layout/textview_three" />
+
+</LinearLayout>

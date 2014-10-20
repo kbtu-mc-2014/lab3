@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">lab3mobilecomputing</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="rock2">
+        <item>nashe</item>
+        <item>zaycevfmalternative</item>
+        <item>radiorussianrock</item>
+    </string-array>
+    <string-array name="techno2">
+        <item>radiokazantip</item>
+        <item>radiogameplay</item>
+        <item>technobasefm</item>
+    </string-array>
+    <string-array name="shanson2">
+        <item>radiovanya</item>
+        <item>relaxfm</item>
+        <item>ice</item>
+    </string-array>
+    <string-array name="category">
+        <item>Rock</item>
+        <item>Techno</item>
+        <item>Shanson</item>
+    </string-array>
+    <string-array name="rock">
+        <item>НАШЕ РАДИО</item>
+        <item>Радио Зайцев ФМ: Alternative</item>
+        <item>Radio Русский Rock</item>
+    </string-array>
+    <string-array name="techno">
+        <item>Казантип ФМ</item>
+        <item>Radio GamePlay</item>
+        <item>Psychic Radio Station</item>
+    </string-array>
+    <string-array name="shanson">
+        <item>Радио Ваня</item>
+        <item>Energy FM</item>
+        <item>Radio NS - KZ</item>
+    </string-array>
+
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+
+</resources>
